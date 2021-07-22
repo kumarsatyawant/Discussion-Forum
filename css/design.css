@@ -1,0 +1,11 @@
+.white {
+    color: white;
+}
+
+.required {
+    color: red;
+}
+
+.min_height {
+    min-height: 90vh;
+}
